@@ -8,4 +8,4 @@ Added some more text here
 
 ## Local Development 
 
-Making some changes in new branch 
+Making some changes in new branch. And some more.
